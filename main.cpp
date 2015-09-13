@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 {
 
     ifstream marketData;
-    const string path="/Users/javier/Desktop/prueba US market visual/";;
+    const string path="/Users/javier/Desktop/prueba US market visual/";
     const string fileName="AAPLMarket6May2010.csv";
     string fullName=path+fileName;
 
